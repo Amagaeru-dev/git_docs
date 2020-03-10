@@ -1,2 +1,2 @@
-# gi_docs
+# git_docs
 GitやGithubのノウハウや問題の解決方法をmarkdowenでまとめた。
